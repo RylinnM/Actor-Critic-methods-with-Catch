@@ -4,7 +4,7 @@
 Custamizable Catch Environment
 By Thomas Moerland
 
-AC with bootstrapping built bt R.Ma
+AC with bootstrapping built by R.Ma
 """
 
 import matplotlib
