@@ -7,8 +7,11 @@ This project implements two different Actor-Critic algorithms with bootstrapping
 To run this project, you'll need Python 3.7 or higher, as well as the following packages:
 
 gym
+
 numpy
+
 matplotlib
+
 torch
 
 ## Usage
