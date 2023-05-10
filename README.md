@@ -14,13 +14,14 @@ torch
 ## Usage
 To run the A2C algorithm, use the following command:
 
-python A2C_bs.py
+`python A2C_bs.py`
+
 To run the AC algorithm, use the following command:
 
-python AC_bs.py
+`python AC_bs.py`
 
 ## Tuning
-Both scripts will train the corresponding algorithm. You can also change the hyperparameters and other settings in the codes in a class called Hyperparameters.
+Both scripts will train the corresponding algorithm. You can also change the hyperparameters and other settings in the codes in a class called `Hyperparameters`.
 
 ## Results
 After training, the scripts will generate plots showing the average reward per episode over time.
