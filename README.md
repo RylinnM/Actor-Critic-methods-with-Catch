@@ -1,4 +1,4 @@
-# Actor-Critic-methods-with-Catch-Environment
+# Actor Critic methods applied to a modified version of the Catch environment
 A collection of actor critic RL methods that are applied to the Catch env. with PyTorch.
 
 This project implements two different Actor-Critic algorithms with bootstrapping for the Catch environment. The first algorithm is the Advantage Actor-Critic (A2C) with bootstrapping, and the second is a standard Actor-Critic (AC) with bootstrapping. The catch enviornment is built in the codes.
